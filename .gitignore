@@ -16,3 +16,5 @@ htmlcov
 .coverage
 .coverage.*
 *,cover
+
+.DS_Store
